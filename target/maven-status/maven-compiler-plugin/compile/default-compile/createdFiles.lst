@@ -1,0 +1,5 @@
+com\niit\blogapp\backend\App.class
+com\niit\blogapp\backend\model\Blog.class
+com\niit\blogapp\backend\dao\BlogDAO.class
+com\niit\blogapp\backend\config\AppContextConfig.class
+com\niit\blogapp\backend\dao\BlogDAOImpl.class
